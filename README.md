@@ -4,8 +4,13 @@
     <a href="https://www.linkedin.com/in/ariannaloucks/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    &nbsp;
     <a href="https://profile.indeed.com/p/ariannal-k3ddgfb" target="_blank">
       <img src="https://img.shields.io/badge/Indeed-white?logo=linkedin&logoColor=blue&style=for-the-badge" alt="Indeed Badge"/>
+    </a>
+    &nbsp;
+    <a href="https://https://devpost.com/afloucks" target="_blank">
+      <img src="https://img.shields.io/badge/Devpost-white?logo=devpost&logoColor=blue&style=for-the-badge" alt="Devpost Badge"/>
     </a>
   </div>
 <!--   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile_counter"/> -->
