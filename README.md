@@ -19,9 +19,9 @@
 ---
 
 ### About Me
-- Currently working as a front-end web app developer (Next.js, TypeScript)
-- Currently developing a React Native app
-- In my free time, I like to work on digital art
+- Currently developing a React Native app, and a React website (<a href='https://github.com/arifire21/Loucks-Engineering-Site' target="_blank">Loucks Engineering Repo</a>)
+- Recently ended part-time position as a front-end web app developer (Next.js, TypeScript) 
+- In my free time, I like to work on digital art!
 
 ---
 
