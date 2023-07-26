@@ -19,7 +19,8 @@
 ---
 
 ### About Me
-- Currently developing a React Native app, and a React website (<a href='https://github.com/arifire21/Loucks-Engineering-Site' target="_blank">Loucks Engineering Repo</a>)
+- Sucessfully deployed a React website! Visit Loucks Engineering <a href='https://www.louckseng.com/' target="_blank">here</a>
+- Currently developing a React Native app
 - Recently ended part-time position as a front-end web app developer (Next.js, TypeScript) 
 - In my free time, I like to work on digital art!
 
