@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Indeed-white?logo=indeed&logoColor=blue&style=for-the-badge" alt="Indeed Badge"/>
     </a>
     &nbsp;
-    <a href="https://https://devpost.com/afloucks" target="_blank">
+    <a href="https://devpost.com/afloucks" target="_blank">
       <img src="https://img.shields.io/badge/Devpost-white?logo=devpost&logoColor=blue&style=for-the-badge" alt="Devpost Badge"/>
     </a>
   </div>
@@ -21,7 +21,6 @@
 ### About Me
 - Recently deployed a React website! Visit Loucks Engineering <a href='https://www.louckseng.com/' target="_blank">here</a>
 - Currently developing a React Native app
-- Recently ended part-time position as a front-end web app developer (Next.js, TypeScript) 
 - In my free time, I like to work on digital art!
 
 ---
