@@ -21,7 +21,7 @@
 ### About Me
 - Recently deployed a React website! Visit Loucks Engineering <a href='https://www.louckseng.com/' target="_blank">here</a>
 - Currently developing a React Native app
-- In my free time, I like to work on digital art!
+- In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
 ---
 
