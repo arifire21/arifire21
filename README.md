@@ -20,7 +20,7 @@
 
 ### About Me
 - Recently deployed a React website! Visit Loucks Engineering <a href='https://www.louckseng.com/' target="_blank">here</a>
-- Currently developing a React Native app
+- Currently developing a <a href='https://github.com/arifire21/eagle-eye-site' target="_blank">company website</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
 ---
