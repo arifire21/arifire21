@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-- Recently deployed a React website! Visit Loucks Engineering <a href='https://www.louckseng.com/' target="_blank">here</a>
+- Recently deployed a portfolio! Visit <a href='https://afloucks.vercel.app/' target="_blank">here</a>
 - Currently developing a <a href='https://github.com/arifire21/eagle-eye-site' target="_blank">company website</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
@@ -65,6 +65,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifire21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>(public repositories only)</p>
 
 <!--
 **arifire21/arifire21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
