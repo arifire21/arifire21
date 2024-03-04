@@ -19,6 +19,7 @@
 ---
 
 ### About Me
+- working with FRC team to make a streamlined survey web app
 - Recently deployed a portfolio! Visit <a href='https://afloucks.vercel.app/' target="_blank">here</a>
 - Currently developing a <a href='https://github.com/arifire21/eagle-eye-site' target="_blank">company website</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
