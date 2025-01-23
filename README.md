@@ -21,7 +21,6 @@
 ### About Me
 - working with FRC team to make a streamlined survey web app
 - Recently deployed a portfolio! Visit <a href='https://afloucks.vercel.app/' target="_blank">here</a>
-- Currently developing a <a href='https://github.com/arifire21/eagle-eye-site' target="_blank">company website</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
 ---
@@ -66,19 +65,4 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifire21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p>(public repositories only)</p>
-
-<!--
-**arifire21/arifire21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size:smaller">(public repositories only)</p>
