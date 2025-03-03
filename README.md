@@ -5,11 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     &nbsp;
-    <a href="https://profile.indeed.com/p/ariannal-k3ddgfb" target="_blank">
-      <img src="https://img.shields.io/badge/Indeed-white?logo=indeed&logoColor=blue&style=for-the-badge" alt="Indeed Badge"/>
-    </a>
-    &nbsp;
-    <a href="https://devpost.com/afloucks" target="_blank">
+    <a href="https://devpost.com/arifire21" target="_blank">
       <img src="https://img.shields.io/badge/Devpost-white?logo=devpost&logoColor=blue&style=for-the-badge" alt="Devpost Badge"/>
     </a>
   </div>
@@ -20,7 +16,7 @@
 
 ### About Me
 - working with FRC team to make a streamlined survey web app
-- Recently deployed a portfolio! Visit <a href='https://afloucks.vercel.app/' target="_blank">here</a>
+- Recently deployed a portfolio! Visit <a href='https://www.ariannaloucks.com' target="_blank">here</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
 ---
