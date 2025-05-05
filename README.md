@@ -15,8 +15,7 @@
 ---
 
 ### About Me
-- working with FRC team to make a streamlined survey web app
-- Recently deployed a portfolio! Visit <a href='https://www.ariannaloucks.com' target="_blank">here</a>
+- Deployed a portfolio! Visit <a href='https://www.ariannaloucks.com' target="_blank">here</a>
 - In my free time, I like to work on digital art, 3D printing, and sewing projects!
 
 ---
